@@ -1,17 +1,17 @@
 # merge-solo
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
+a for apple  
+b for banana  
+c for cat  
+d for dog  
+e for elephant   
+f for fish    
+g for gorilla   
+h for hat  
+i for igloo  
+j for jump  
+k for kangaroo  
+l for lemon    
+m for money    
 n
 o for octopus  
 p for party  
