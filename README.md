@@ -13,9 +13,9 @@ k for kangaroo
 l for lemon    
 m for money    
 n
-o  
-p  
-q  
+o
+p
+q
 r
 s
 t
